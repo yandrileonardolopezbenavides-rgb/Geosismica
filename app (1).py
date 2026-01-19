@@ -14,6 +14,7 @@ st.set_page_config(
 
 BACKEND_ENDPOINT = "https://yandri0205.app.n8n.cloud/webhook/seismic-upload"
 
+
 # --------------------------------------------------
 # FUNCIONES AUXILIARES
 # --------------------------------------------------
